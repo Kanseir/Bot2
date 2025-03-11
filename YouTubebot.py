@@ -3,7 +3,7 @@ import yt_dlp
 import os
 
 # 🔹 حط التوكن بتاع البوت هنا
-TOKEN = "7663196465:AAFOASXX9l5WiknczOGnZt5ioeUmbXLidBI"
+TOKEN = "7663196465:7663196465:AAHZ0hcS5b1-ahdfl3pvoLC5RSHtfOH9K3o"
 bot = telebot.TeleBot(TOKEN)
 
 # 🔹 تحميل الفيديو بجودة محددة مع استخدام الكوكيز
